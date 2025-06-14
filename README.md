@@ -1,6 +1,14 @@
 ## Hola mundo!!! 👋
 
-Bienvenido a mi portafolio de proyectos, tengo proyectos relacionado al mundo de la analítica de datos, desde la generación de reportes/dashboards hasta el desarrollo de modelos de IA.
+Bienvenido a mi portafolio de proyectos relacionado al mundo de la analítica de datos, desde la generación de reportes/dashboards hasta el desarrollo de modelos de IA.
+
+**Dashboard de la ventas de ropa**
+
+Dashboard de ventas de ropa entre el 2017 y 2019, se muestra las categorías, las marcas, las tiendas y las devoluciones relizadas de los productos.
+
+[Link del dashboard](eyJrIjoiNmIxNTJmY2YtZTNmOC00ZTU4LWFmZjQtNDNmMzM1NDhmNDg3IiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9)
+
+![image](https://github.com/user-attachments/assets/c8edb6d0-6b95-426a-8af9-a4f5226ee0c2)
 
 **Dashboard de la diabetes**
 
