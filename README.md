@@ -25,11 +25,3 @@ Participé del reto Datathon Exprésate Perú con Datos 2023, donde generé insi
 [Link del dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjkzOGMyZDgtMzVjZC00YTMzLThlMzAtYTZjMTJiNDNiMTc2IiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9)
 
 ![image](https://github.com/user-attachments/assets/b193d428-e0b0-4bf2-863d-f77845f40082)
-
-**Transfer learning en dataset de Frutas**
-
-Se entrenó un modelo Inception V3 para la clasificación de frutas, se usó la herramienta Google Colab.
-
-[Link del notebook](https://github.com/Jack-Cruz/transfer_learning_exercise/blob/main/Transfer_Learning_in_Images_Final_Project.ipynb)
-
-![image](https://github.com/user-attachments/assets/359a4bf3-b674-46a3-b672-6d17facf4b36)
