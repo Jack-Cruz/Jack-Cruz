@@ -4,7 +4,7 @@ Bienvenido a mi portafolio de proyectos relacionado al mundo de la analítica de
 
 **Dashboard de ventas de ropa**
 
-Dashboard de ventas de ropa entre el 2017 y 2019, se muestra las categorías, las marcas, las tiendas y las devoluciones relizadas de los productos.
+Reporte de ventas de ropa entre el 2017 y 2019, se muestra las categorías, las marcas, las tiendas y las devoluciones relizadas de los productos.
 
 [Link del dashboard](eyJrIjoiNmIxNTJmY2YtZTNmOC00ZTU4LWFmZjQtNDNmMzM1NDhmNDg3IiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9)
 
