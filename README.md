@@ -1,6 +1,6 @@
 ## Hola mundo!!! 👋
 
-Bienvenido a mi portafolio de proyectos relacionado al mundo de la analítica de datos, desde la generación de reportes/dashboards hasta el desarrollo de modelos de IA.
+Bienvenido a mi portafolio de proyectos relacionado al mundo de la analítica de datos, específicamente la creación de dashboards.
 
 **Dashboard de ventas de ropa**
 
